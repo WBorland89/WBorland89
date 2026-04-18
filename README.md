@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Wesley, a software developer from Louisiana.
 <!--
 **WBorland89/WBorland89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
